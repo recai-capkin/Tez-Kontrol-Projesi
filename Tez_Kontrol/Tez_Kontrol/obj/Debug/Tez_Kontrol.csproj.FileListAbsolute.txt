@@ -1,0 +1,14 @@
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\bin\Debug\Tez_Kontrol.exe.config
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\bin\Debug\Tez_Kontrol.exe
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\bin\Debug\Tez_Kontrol.pdb
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\obj\Debug\Tez_Kontrol.csprojAssemblyReference.cache
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\obj\Debug\Tez_Kontrol.Form1.resources
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\obj\Debug\Tez_Kontrol.Properties.Resources.resources
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\obj\Debug\Tez_Kontrol.csproj.GenerateResource.cache
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\obj\Debug\Tez_Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\obj\Debug\Tez_Kontrol.exe
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\obj\Debug\Tez_Kontrol.pdb
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\bin\Debug\itextsharp.dll
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\bin\Debug\itextsharp.xml
+C:\Users\Recai\source\repos\Tez_Kontrol\Tez_Kontrol\obj\Debug\Tez_Kontrol.csproj.CopyComplete
